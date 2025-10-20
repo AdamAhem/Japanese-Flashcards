@@ -1,0 +1,18 @@
+NAME: Testing2
+DEFAULT: 0
+DEFAULT GAME SETTINGS:
+
+grades:none
+gradelogic:or
+jlpt:none
+jlptlogic:or
+length:1
+lengthlogic:and
+tags:Noun
+tagslogic:and
+swap:none
+time:120
+lives:50
+recover:30
+language:both
+repetition:0

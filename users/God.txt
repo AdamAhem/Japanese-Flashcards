@@ -1,0 +1,12 @@
+NAME: God
+DEFAULT: 0
+DEFAULT GAME SETTINGS:
+
+grades:1,2,3,4,5,6,JH,-
+jlpt:none
+swap:none
+time:999
+lives:999
+recover:999
+language:both
+repetition:0

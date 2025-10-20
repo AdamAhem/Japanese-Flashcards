@@ -1,0 +1,51 @@
+NAME: Testing
+DEFAULT: 0
+DEFAULT GAME SETTINGS:
+
+preset_1:test preset1*
+grades:1
+gradelogic:and
+jlpt:none
+jlptlogic:or
+length:1
+lengthlogic:and
+tags:none
+tagslogic:or
+swap:none
+time:30
+lives:5
+recover:10
+language:eng
+repetition:100
+
+preset_2:testpreset2
+grades:1
+gradelogic:or
+jlpt:none
+jlptlogic:or
+length:1,2
+lengthlogic:and
+tags:Verb
+tagslogic:and
+swap:none
+time:300
+lives:5
+recover:10
+language:jap
+repetition:0
+
+preset_3:yesnt
+grades:1,2,3,4,5,6
+gradelogic:and
+jlpt:none
+jlptlogic:or
+length:none
+lengthlogic:or
+tags:none
+tagslogic:and
+swap:none
+time:30
+lives:5
+recover:10
+language:eng
+repetition:100

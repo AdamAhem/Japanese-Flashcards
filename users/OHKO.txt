@@ -1,0 +1,12 @@
+NAME: OHKO
+DEFAULT: 0
+DEFAULT GAME SETTINGS:
+
+grades:2
+jlpt:N1
+swap:none
+time:2
+lives:1
+recover:5
+language:both
+repetition:0
